@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Shantell+Sans&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -24,8 +24,8 @@ header {
   /* menu navigation links */
   #menu {
     list-style: none;
-    margin: 30px;
-    padding: 0;
+    margin: auto;
+    padding: 30px;
     display: flex;
     justify-content: center;
   }
@@ -34,7 +34,7 @@ header {
     font-family: shantell sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin: 0px 20px;
+    margin: auto 30px;
   }
   
   #menu a {
@@ -42,10 +42,18 @@ header {
     text-decoration: none;
   }
 
+  .active {
+    font-size: 150%;
+    font-style: italic;
+  }
+
+  #menu a:hover {
+    color: #c6d14c;
+  }
+
   /* logo image */
   header img {
     background: no-repeat center center;
-    height: 800px;
+    height: auto;
     width: 100%;
-
   }
