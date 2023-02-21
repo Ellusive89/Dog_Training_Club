@@ -57,3 +57,28 @@ header {
     height: auto;
     width: 100%;
   }
+
+  /* about-us section */
+  #about-us {
+    background-color: #2c2e19;
+    color: #fff;
+  }
+
+  #about-us h2 {
+    font-family: shantell sans, sans-serif;
+    font-size: 250%;
+    text-align: center;
+    margin: auto 30px;
+  }
+
+  #about-us p {
+    font-family: montserrat, sans-serif;
+    font-size: 130%;
+    text-align: center;
+    margin: 30px 150px;
+  }
+
+  p b {
+    font-style: italic;
+    font-size: 120%;
+  }
