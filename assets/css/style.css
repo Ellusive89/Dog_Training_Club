@@ -160,8 +160,9 @@
 /* training tips */
 
   #training-tips {
-    background-color: #2c2e19;
+    background-color: #20271a;
     color: #fff;
+    padding-top: 20px;
     padding-bottom: 20px;
   }
 
@@ -184,5 +185,16 @@
     color: #c6d14c;
     font-size: 200%;
   }
+
+/* training tips img */
+#training-tips-image-container {
+  text-align: center;
+  background-color: #20271a;
+}
+
+#training-tips-image-container img {
+  height: 550px;
+  max-width: 100%;
+}
 
 
