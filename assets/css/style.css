@@ -62,6 +62,7 @@
   #about-us {
     background-color: #2c2e19;
     color: #fff;
+    padding-bottom: 20px;
   }
 
   #about-us h2 {
@@ -87,10 +88,10 @@
   /* footer */
 
   footer {
-    height: 100px;
+    height: 110px;
     background-color: #2c2e19;
-    margin-top: -40px;
-    padding: 70px;
+    margin: 0;
+    padding: 40px;
   }
 
   #f_middle {
