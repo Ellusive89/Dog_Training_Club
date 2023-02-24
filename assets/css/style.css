@@ -157,6 +157,22 @@
     color: #c6d14c;
     }
 
+/* audio */
+  #relax {
+    background-color: #20271a;
+    text-align: center;
+    padding: 20px;
+  }
+
+  #relax h2 {
+    color: #fff;
+    font-family: shantell sans, sans-serif;
+  }
+
+  audio::-webkit-media-controls-panel {
+    background-color: #c6d14c;
+  }
+ 
 /* training tips */
 
   #training-tips {
