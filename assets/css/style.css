@@ -261,6 +261,7 @@ form {
   border: 1px solid #c6d14c;
   border-radius: 5px;
   padding: 20px;
+  width: 50%;
 }
 
 fieldset {
@@ -293,17 +294,11 @@ input[type="email"] {
   border-radius: 3px;
   background-color: #2c2e19;
   color: #fff;
-  width: 100%;
+  width: 95%;
 }
 
 input[type="radio"] {
   margin: 10px;
-}
-
-.age input {
- display: flex;
- float: left;
- width: 100%;
 }
 
 input[type="submit"] {
@@ -419,6 +414,10 @@ input[type="submit"]:hover {
     margin: 20px 70px;
   }
 
+  form {
+    width: 90%;
+  }
+
   .sign-up-section {
     display: flex;
     flex-direction: column;
@@ -464,4 +463,4 @@ input[type="submit"]:hover {
     font-size: 100%;
     margin: auto 10px;
   }
-
+}
