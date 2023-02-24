@@ -139,7 +139,7 @@
   }
 
   .partners_links {
-    align-items: right;
+    float: right;
   }
 
   .partners_links > li {
@@ -299,6 +299,8 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #3e8e41;
 }
+
+
 
 
 
