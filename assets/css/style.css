@@ -300,6 +300,12 @@ input[type="radio"] {
   margin: 10px;
 }
 
+.age input {
+ display: flex;
+ float: left;
+ width: 100%;
+}
+
 input[type="submit"] {
   padding: 20px;
   margin-top: 20px;
@@ -387,8 +393,17 @@ input[type="submit"]:hover {
   #menu {
     list-style: none;
     padding: 30px;
-    display: block;
-    width: 50%;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #about-us h2 {
+    font-size: 150%;
+    margin: auto 30px;
+  }
+
+  #about-us p {
+    font-size: 110%;
   }
 
   #training-tips-image-container img {
@@ -449,4 +464,4 @@ input[type="submit"]:hover {
     font-size: 100%;
     margin: auto 10px;
   }
-}
+
