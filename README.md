@@ -2,7 +2,7 @@
 
 This is a website for a Dog Training Club, created as a school project for Code Institute. The aim of this project is to provide a platform for the fictional Dog Training Club to showcase their services and provide information to potential members.
 
-![Responsive Mocup](https://github.com/Ellusive89/Dog_Training_Club/blob/main/media/dog_training_club_mockup.png)
+![Responsive Mockup](https://github.com/Ellusive89/Dog_Training_Club/blob/main/media/dog_training_club_mockup.png)
 
 ## Features
 
@@ -20,7 +20,7 @@ Our members page: This page has a gallery showcasing members pets.
 
 ![Gallery](https://github.com/Ellusive89/Dog_Training_Club/blob/main/media/gallery_img.png)
 
-Sign up page: This page provides a form for potential customers to get in touch with the Dog Training Club. Form is posted to https://formdump.codeinstitute.net/
+Sign up page: This page provides a form for potential members to get in touch with the Dog Training Club. Form is posted to https://formdump.codeinstitute.net/
 
 ![Sign Up](https://github.com/Ellusive89/Dog_Training_Club/blob/main/media/signup_form.png)
 
@@ -50,15 +50,21 @@ Footer: In the footer you can find links to our social media websites, links to 
 
 The website was created using the following technologies:
 
-HTML5
-CSS3
+- __HTML5__
+- __CSS3__
 
 ### Testing
 The website has been tested extensively to ensure that it is functional and responsive across different devices and screen sizes. Testing has been performed using different browsers, including Chrome, Firefox, and Safari.
 
+- __Lighthouse:__
+
 ![Lighthouse Score](https://github.com/Ellusive89/Dog_Training_Club/blob/main/media/lighthouse_score.png)
 
+- __HTML Validation:__
+
 ![HTML](https://github.com/Ellusive89/Dog_Training_Club/blob/main/media/html_validator.png)
+
+- __CSS Validation:__
 
 ![CSS](https://github.com/Ellusive89/Dog_Training_Club/blob/main/media/css_validator.png)
 
@@ -72,12 +78,14 @@ The website was created by Ewa Nagrodzka, as a school project for Code Institute
 
 Idea for footer from Love Running, Code Institute project.
 
-- __W3Schools__: https://www.w3schools.com/
-- __Lesfm__ - Forest Lullaby from https://pixabay.com/
-- __FontAwesome__: https://fontawesome.com/
-- __Google Fonts__: https://fonts.google.com/
-- __Pictures from__: https://wallpaperaccess.com/ & https://www.pexels.com/
+- __Lesfm - Forest Lullaby from:__ https://pixabay.com/
+- __FontAwesome:__ https://fontawesome.com/
+- __Google Fonts:__ https://fonts.google.com/
+- __Main page picture from:__ https://wallpaperaccess.com/
+- __Other pictures from:__ https://www.pexels.com/
+- __Code Institute Form Dump:__ https://formdump.codeinstitute.net/
+- __W3Schools:__ https://www.w3schools.com/
 
-Acknowledgements
+## Acknowledgements
 
-Thank you Bailey for the inspiration to build this website. Thank you Ailin for your support and encouragement. Thank you Jocke for beliving in me, even when I was doubting myself.
+Thank you to my dog, Bailey for the inspiration to build this website. Thank you Ailin for your support and encouragement. Thank you Jocke for beliving in me, even when I was doubting myself.
